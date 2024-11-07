@@ -2,6 +2,7 @@
 
 Convert lecture notes and mathematical documents into clean, digital formats using Mathpix OCR API. This tool processes PDFs containing mathematical notation and generates multiple output formats including LaTeX, Markdown, and HTML.
 
+
 ## Features ✨
 
 - PDF processing with mathematical formula recognition
@@ -33,6 +34,7 @@ pip install -r requirements.txt
 cp .env.example .env
 ```
 4. Add your Mathpix API credentials to .env:
+Get your key from: https://mathpix.com/convert
 ```bash
 MATHPIX_APP_ID='your_app_id_here'
 MATHPIX_APP_KEY='your_app_key_here'
