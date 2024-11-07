@@ -11,7 +11,7 @@ Made using Mathpix's Convert API for STEM: https://mathpix.com/convert
 - Progress tracking with real-time status updates
 - Cost estimation for API usage
 - Organized output with timestamp-based filing
-- Smart page detection for mathematical content
+- Smart page detection for mathematical or scientific content
 
 ## Prerequisites 🔧
 
