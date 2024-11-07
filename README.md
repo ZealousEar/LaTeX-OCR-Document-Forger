@@ -26,8 +26,6 @@ cd LaTeX-OCR-Document-Forger
 ```
 2. Install required packages:
 ```bash
-README.md
-Install required packages:
 pip install -r requirements.txt
 ```
 3. Create .env file from template:
