@@ -21,8 +21,8 @@ Convert lecture notes and mathematical documents into clean, digital formats usi
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/math-note-maker.git
-cd math-note-maker
+git clone https://github.com/ZealousEar/LaTeX-OCR-Document-Forger.git
+cd LaTeX-OCR-Document-Forger
 ```
 2. Install required packages:
 ```bash
