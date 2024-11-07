@@ -55,25 +55,25 @@ python src/main.py --pdf "path/to/your/notes.pdf" --output "custom/output/dir" -
 ```
 
 Command Line Options
+```bash
 --pdf: Specify input PDF path
 --output: Set custom output directory
 --profile: Enable performance profiling
+```
+
 Output Formats 📄
-LaTeX (.tex)
-
-Full mathematical precision
-Source code for typesetting
-Includes all equations and formatting
-Markdown (.md)
-
-Clean, readable text
-Embedded mathematical formulas
-Easy to edit and version control
-HTML
-
-Web-ready format
-Interactive elements
-Styled mathematical content
+- LaTeX (.tex)
+  Full mathematical precision
+  Source code for typesetting
+  Includes all equations and formatting
+- Markdown (.md)
+  Clean, readable text
+  Embedded mathematical formulas
+  Easy to edit and version control
+- HTML
+  Web-ready format
+  Interactive elements
+  Styled mathematical content
 
 Cost Estimation 💰
 The tool provides cost estimates based on Mathpix API pricing:
