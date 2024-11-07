@@ -2,6 +2,7 @@
 
 Convert lecture notes and mathematical documents into clean, digital formats using Mathpix OCR API. This tool processes PDFs containing mathematical notation and generates multiple output formats including LaTeX, Markdown, and HTML.
 
+Made using Mathpix's Convert API for STEM: https://mathpix.com/convert
 
 ## Features ✨
 
